@@ -1,0 +1,203 @@
+TITLE: ONE NIGHT AT THE C.G. MUSEUM
+During World War II, an enigmatic opportunity arrived unexpectedly for the women of America. Over ten thousand young women, drawn from elite women’s colleges and small Southern towns alike, were recruited by the U.S. Army and Navy to serve as codebreakers.
+They would go on to make history.
+You are here to learn about these women’s stories – and it is your job to ensure history does not change tonight.
+
+Some enigmatic rogues have been scheming as of late to not only steal from the prestigious Museum, but besmirch its displays and placards too, the night before the Annual Exhibition. 
+
+With full security all around in the shadows, there are three people scouting the Museum tonight – including you.
+
+Meet the Characters:
+
+Detective Meyer Driscoll | Game-Mode: Cipher decrypting
+
+Decrypt the 5 strange messages left by the Enigmatic Rogues. What are they trying to communicate? Can you trace their steps and find out where they are going next? Let’s try to catch them in time.
+
+Difficulty: Medium
+
+Museum Curator Helen Aderholt | Game-Mode: Trivia, Multiple choice
+
+Walk through the corridors and restore the 5 placards that have been left distorted. You may not have any access to external resources for cross-checking, but you have one brilliant thing the Enigmatic Rogues can’t take from you: Your mind!
+
+Difficulty: Easy
+
+Hacker PURPLE_CIPHER | Game-Mode: Cipher & Trivia, no hints
+
+To catch the Enigmatic Rogues, you must first think like them. Since you’re operating from the Museum’s security room, your resources and time alike are rather limited. Thankfully, you need the 3 remaining puzzle pieces to both track down the Enigmatic Rogues and restore the Museum’s information placards in one blow.
+
+Difficulty: Advanced
+
+*For beginners, Detective or Curator is recommended! 
+*For risk-takers, they may try out Hacker!
+
+
+Cipher: Caesar
+
+Reference: https://samantha-allen.github.io/Documents/CodeGirls1.pdf
+
+HOW MANY ARE THERE?
+WHAT ARE THEIR NAMES?
+WHY ARE THEY DOING THIS?
+WHEN DID THEY BREAK IN?
+WHERE ARE THEY GOING?
+
+CIPHER: There are 3 of you at the museum, so use this key: +3
+
+THREE - WKUHH
+
+ZANN, DARE, NAOJ - CDQQ, GDUH, QDRM
+
+HIRED BY RIVALS - KLUHG EB ULYDOV
+
+DUSK - GXVN
+
+DOWNTOWN - GRZQWRZQ
+
+
+
+
+Trivia:
+
+I. Which famous female cryptanalyst helped lay early groundwork for U.S. codebreaking before and during WWII?
+A) Virginia Dare Aderholdt
+B) Agnes Meyer Driscoll
+C) Helen Nibouar
+
+Hint: What is the Detective’s name?
+Answer: B) Agnes Meyer Driscoll
+
+
+II. What was one of the key breakthroughs achieved by Genevieve Grotjan Feinstein?
+A) Designing the Enigma machine
+B) Identifying patterns that helped crack the Japanese “Purple” cipher
+C) Inventing radar technology 
+
+Hint: What is the Hacker’s name?
+Answer: B) Identifying patterns that helped crack the Japanese “Purple” cipher
+
+
+
+III. What nickname is commonly used for the group of women codebreakers in the U.S. Navy and Army during WWII?
+A) The Cipher Sisters
+B) The Code Girls
+C) The Signal Maidens 
+
+Hint: What does C.G. in the Museum’s name stand for?
+
+Answer: B) The Code Girls
+
+IV. Many Code Girls were recruited directly from college campuses primarily because they had studied what subject area?
+A) Mathematics and modern languages
+B) Engineering and chemistry
+C) Political science and history
+
+Hint: “Mathematics is the language with which God has written the universe.” – Galileo Galilei.
+Answer: A) Mathematics and modern languages
+
+V. What was the primary function of the Code Girls during WWII?
+A) Translating intercepted enemy diplomatic messages
+B) Operating radio transmission stations in the Pacific
+C) Performing cryptanalysis on encrypted naval communications
+Hint: Traditionally, a military has three forces: i) The Land Force (Army); ii) The Naval Force (Navy); iii) The Air Force.
+Answer: C) Performing cryptanalysis on encrypted naval communications 
+
+
+
+
+
+Hints:
+
+Simple Karel & Python Puzzles
+
+
+CIPHER HINTS:
+
+1. Which of these is NOT a base command in Karel program?
+move()
+turn_left()
+place_beeper()
+pick_beeper()
+
+Answer: C
+
+Hint: How many wishes does a Genie grant you?
+Cipher Answer: THREE
+
+2. Which of the following is used to define a block of code in Python language?
+a) Semi-colons
+b) Indentation
+c) Brackets
+d) All of the mentioned
+
+ANSWER: b
+
+3. Who is the inventor of Karel?
+a) Adele Goldberg of Stanford University
+b) James Gosling of Carnegie Mellon University 
+c) Shafi Goldwasser of UC Berkeley
+d) Richard E. Pattis of Stanford University
+
+Answer: d
+
+4. Which of the following is not a core data type in Python programming?
+a) Tuples
+b) Lists
+c) Class
+d) Dictionary
+View Answer
+
+Answer: c
+
+5. What will be the output of the following Python statement?
+
+print("a"+"bc")
+a) bc
+b) abc
+c) a
+d) bca
+View Answer
+
+Answer: b
+
+TRIVIA HINTS
+
+1.  What can be used to teach Karel how to turn right?
+A) User input
+B) Functions
+C) Variables
+D) Karel can already turn right
+
+Hint: What is the Detective’s name?
+Trivia Answer: B) Agnes Meyer Driscoll
+
+2. What will be the value of the following Python expression?
+
+print(4 + 3 % 5)
+a) 7
+b) 2
+c) 4
+d) 1
+
+ANSWER: a) 7
+
+3. Who is Karel the Robot named after?
+a) A Czech writer who coined the word “robot” in a 1920 play about artificial workers
+ b) A computer scientist who developed early Python teaching tools for beginners
+ c) An Austrian logician known for formalising symbolic computation and early machine theory 
+ d) A computer scientist credited with helping popularize early integrated development environments (IDEs)
+ANSWER: a
+
+4. What does pip stand for python?
+a) Pip Installs Python
+b) Pip Installs Packages
+c) Preferred Installer Program
+d) All of the mentioned
+View Answer
+
+
+5. What arithmetic operators cannot be used with strings in Python?
+a) *
+b) -
+c) +
+d) All of the mentioned
+Answer: b
