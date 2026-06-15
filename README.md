@@ -52,6 +52,8 @@ Requirements: Python 3.x — no external libraries needed.
 
 bashpython3 night_at_cg_museum.py
 
+Program made using Python.
+
 
 # Best experienced in a full terminal window with a dark background for colour support.
 
